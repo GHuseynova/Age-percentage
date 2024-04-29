@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(16, 15, 15);
+}
+
+.for-age{
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: rgb(44, 15, 15);
+}
+h3{
+    color: white;
+    padding: 30px;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box-box{
+    margin:10px;
+}
+.column{
+    width: 50px;
+    height: 120px;
+    border-radius:10px;
+    background-color: rgb(61, 48, 48);
+    display: flex;
+    align-items:flex-end;
+}
+.fill-1{
+    width: 50px;
+    height: 30px;
+    background-color: rgb(209, 33, 33);
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.fill-2{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(209, 33, 33);
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.fill-3{
+    width: 50px;
+    height: 23px;
+    background-color: rgb(209, 33, 33);
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.fill-4{
+    width: 50px;
+    height: 19px;
+    background-color: rgb(209, 33, 33);
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.fill-5{
+    width: 50px;
+    height: 8px;
+    background-color: rgb(209, 33, 33);
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+p{
+    color: white;
+    text-align: center;
+}
+
